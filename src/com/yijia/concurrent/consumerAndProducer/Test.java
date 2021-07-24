@@ -110,7 +110,7 @@ public class Test {
         Long end = System.nanoTime();
 
 
-        System.out.println("总共用时："+(Long.valueOf(end-start)/1e6));
+//        System.out.println("总共用时："+(Long.valueOf(end-start)/1e6));
     }
 
 
